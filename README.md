@@ -1,7 +1,7 @@
 Liatrio Simple Application
 
-This is a simple application that exposes the REST api, and returns json object 
-    {"message":"Automate all the things!","timestamp":1652983641}
+This is a simple application that exposes the REST api as part of FLASK framework, 
+    and returns json object {"message":"Automate all the things!","timestamp":1652983641}
 
 
 Prerequisite:

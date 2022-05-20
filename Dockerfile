@@ -1,5 +1,4 @@
-# syntax=docker/dockerfile:1
-
+#!/bin/bash
 FROM python:3.8-slim-buster
 
 COPY requirements.txt /opt/app/requirements.txt

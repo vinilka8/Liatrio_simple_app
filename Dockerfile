@@ -7,4 +7,4 @@ RUN pip3 install -r requirements.txt
 
 COPY app.py /opt/app
 
-CMD [ "python3", "-m" , "flask", "run", "--port=5080", "--host=0.0.0.0"]
+CMD [ "python3", "-m" , "flask", "run", "--port=80", "--host=0.0.0.0"]
